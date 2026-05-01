@@ -1,0 +1,27 @@
+.board-square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+}
+
+.square-light {
+    background: #f0d9b5;
+}
+
+.square-dark {
+    background: #b58863;
+}
+
+.piece {
+    width: 85%;
+    height: 85%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.selected {
+    outline: 3px solid yellow;
+}
