@@ -6,7 +6,7 @@ Play against a smart AI opponent directly in your browser — no backend or setu
 ---
 
 ## 🚀 Live Demo
-👉 https://latika-ray.github.io/grandmaster-ai/
+👉 https://latikaray.github.io/GrandMaster-AI/
 
 ---
 
